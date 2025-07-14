@@ -1,3 +1,35 @@
+# 🪨 Rock Paper Scissors – Python Game
+
+This is a beginner-friendly terminal game built using Python.  
+You will play Rock, Paper, Scissors against the computer!
+
+---
+
+## 🕹️ How to Play
+
+- You will be asked to choose: **rock**, **paper**, or **scissors**.
+- The computer randomly picks one of the three.
+- The winner is determined using the classic rules:
+  - Rock beats Scissors
+  - Paper beats Rock
+  - Scissors beats Paper
+- Type `quit` anytime to exit the game.
+
+---
+
+## 💻 How to Run the Game
+
+### ▶️ Method 1: Run Locally
+1. Make sure Python is installed on your system.
+2. Save the game file as `rock_paper_scissors.py`.
+3. Open terminal or command prompt and navigate to the folder.
+4. Run the following command:
+
+```bash
+python rock_paper_scissors.py
+
+---
+
 ## 🧠 How the Code Works (Line-by-Line Table)
 
 | Line(s) | Code | Explanation |
