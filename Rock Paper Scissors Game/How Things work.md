@@ -1,4 +1,4 @@
-# 🪨 Rock Paper Scissors – Python Game
+# Rock Paper Scissors – Python Game
 
 This is a beginner-friendly terminal game built using Python.  
 You will play Rock, Paper, Scissors against the computer!
