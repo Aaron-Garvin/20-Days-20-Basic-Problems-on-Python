@@ -28,7 +28,7 @@ You will play Rock, Paper, Scissors against the computer!
 ```bash
 python rock_paper_scissors.py
 
----
+
 
 ## 🧠 How the Code Works (Line-by-Line Table)
 
