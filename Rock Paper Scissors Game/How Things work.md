@@ -17,16 +17,6 @@ You will play Rock, Paper, Scissors against the computer!
 
 ---
 
-## 💻 How to Run the Game
-
-### ▶️ Method 1: Run Locally
-1. Make sure Python is installed on your system.
-2. Save the game file as `rock_paper_scissors.py`.
-3. Open terminal or command prompt and navigate to the folder.
-4. Run the following command:
-
-```bash
-python rock_paper_scissors.py
 
 
 
