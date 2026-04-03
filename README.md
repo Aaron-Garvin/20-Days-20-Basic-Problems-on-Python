@@ -16,9 +16,9 @@ This repo is my personal Python learning journey — built to sharpen my fundame
 
 | # | Project | Concepts Covered | Status | Code | Colab |
 |---|---------|-----------------|--------|------|-------|
-| 01 | **Quiz Game** | Lists, loops, conditionals, score tracking | ✅ | [View Code](./01.%20Quiz-Game/01.%20Quiz_Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaron-Garvin/20-Days-20-Basic-Problems-on-Python/blob/main/01.%20Quiz-Game/01.%20Quiz_Game.py) |
-| 02 | **Number Guessing Game** | Random module, while loops, input validation | ✅ | [View Code](./02.%20Number-Guessing-Gamer/Number_Guessing_Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaron-Garvin/20-Days-20-Basic-Problems-on-Python/blob/main/02.%20Number-Guessing-Gamer/Number_Guessing_Game.py) |
-| 03 | **Rock Paper Scissors** | Random module, conditionals, score tracking | ✅ | [View Code](./03.%20Rock%2C%20Paper%2C%20Scissors-Game/03.%20Rock%2C%20Paper%2C%20Scissors-Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaron-Garvin/20-Days-20-Basic-Problems-on-Python/blob/main/03.%20Rock%2C%20Paper%2C%20Scissors-Game/03.%20Rock%2C%20Paper%2C%20Scissors-Game.py) |
+| 01 | **Quiz Game** | Lists, loops, conditionals, score tracking | ✅ | [View Code](./01.%20Quiz-Game/01.%20Quiz_Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h4s_Oft-EdgwGWvsU5E4ZzxWsbzELXN_) |
+| 02 | **Number Guessing Game** | Random module, while loops, input validation | ✅ | [View Code](./02.%20Number-Guessing-Gamer/Number_Guessing_Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15BVQ2ZCGsugQdKixGmUk6pvNKMLAGvFg) |
+| 03 | **Rock Paper Scissors** | Random module, conditionals, score tracking | ✅ | [View Code](./03.%20Rock%2C%20Paper%2C%20Scissors-Game/03.%20Rock%2C%20Paper%2C%20Scissors-Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kV4FO5oHxRfSSLDRb8lawY35D386pm1N#scrollTo=WzjTSj_jOJYA) |
 | 04 | **Coming Soon** | — | 🔄 | — | — |
 | 05 | **Coming Soon** | — | 🔄 | — | — |
 | 06 | **Coming Soon** | — | 🔄 | — | — |
