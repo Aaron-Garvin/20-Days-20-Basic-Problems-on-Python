@@ -19,7 +19,7 @@ This repo is my personal Python learning journey — built to sharpen my fundame
 | 01 | **Quiz Game** | Lists, loops, conditionals, score tracking | ✅ | [View Code](./01.%20Quiz-Game/01.%20Quiz_Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h4s_Oft-EdgwGWvsU5E4ZzxWsbzELXN_) |
 | 02 | **Number Guessing Game** | Random module, while loops, input validation | ✅ | [View Code](./02.%20Number-Guessing-Gamer/Number_Guessing_Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15BVQ2ZCGsugQdKixGmUk6pvNKMLAGvFg) |
 | 03 | **Rock Paper Scissors** | Random module, conditionals, score tracking | ✅ | [View Code](./03.%20Rock%2C%20Paper%2C%20Scissors-Game/03.%20Rock%2C%20Paper%2C%20Scissors-Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kV4FO5oHxRfSSLDRb8lawY35D386pm1N#scrollTo=WzjTSj_jOJYA) |
-| 04 | **Coming Soon** | — | 🔄 | — | — |
+| 04 | **Chose Your Adventure** | Random module, conditionals, score tracking | ✅ | [View Code](https://github.com/Aaron-Garvin/20-Days-20-Basic-Problems-on-Python/blob/main/04.%20Choose_Your_Own%20_Adventure-Game/04.%20Choose_Your_Own_Adventure-Game.py) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fbAL_j8VqMVzDsXJdzIJrZ42_2abBxlU#scrollTo=34ll_a9HS6Ge) |
 | 05 | **Coming Soon** | — | 🔄 | — | — |
 | 06 | **Coming Soon** | — | 🔄 | — | — |
 | 07 | **Coming Soon** | — | 🔄 | — | — |
